@@ -1,4 +1,4 @@
-## Various resources related to Swedish sentiment-resources, including Swedish VADER resources
+## Resources related to Swedish sentiment-resources, including Swedish VADER resources
 
 _For the enhanced version of the Swedish VADER (svVADER), please cite:_
 Dimitrios Kokkinakis, Ricardo Muñoz Sánchez, Mia-Marie Hammarlin. 2023. Scaling-up the Resources for a Freely Available Swedish VADER (svVADER). 
